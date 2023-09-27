@@ -13,7 +13,6 @@ public class Message extends PanacheEntity {
     }
 
     public Message(String text) {
-
         this.setText(text);
     }
 
